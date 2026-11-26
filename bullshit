@@ -92,7 +92,7 @@ local CONFIG = {
 
 	-- Global chat: your PC hosts the relay; update URL after starting the Cloudflare Quick Tunnel.
 	CHAT_ENABLED = true,
-	CHAT_SERVER_URL = "https://hamburg-baths-lambda-entrance.trycloudflare.com",
+	CHAT_SERVER_URL = "https://hospitals-vendors-safari-alerts.trycloudflare.com",
 	CHAT_ACCESS_TOKEN = "1ea5ed511a99a99bae6c866c41c63ebf732cba188105c84dab58099c557a6e25", -- share this script only with people you trust
 	CHAT_RETRY_MIN = 2,
 	CHAT_RETRY_MAX = 20,
